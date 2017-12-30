@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"userCode":"ZU1046843","email":"ronald@sedexglobal.com","firstName":"Ronald","lastName":"Sedex","organisationCode":"ZC1071772","roles":["REPORT_VIEWER","COMPANY_ADMIN"],"status":"ACTIVE","impersonatedUserCode":null,"appRoles":{"dataMonitor":["REPORT_VIEWER"],"advance":["COMPANY_ADMIN"]}}
