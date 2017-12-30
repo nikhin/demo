@@ -1,14 +1,16 @@
-"user":{
-	"userCode": "ZU1046843",
-	"email": "ronald@sedexglobal.com",
-	"firstName": "Ronald",
-	"lastName": "Sedex",
-	"organisationCode": "ZC1071772",
-	"roles": ["REPORT_VIEWER", "COMPANY_ADMIN"],
-	"status": "ACTIVE",
-	"impersonatedUserCode": null,
-	"appRoles": {
-		"dataMonitor": ["REPORT_VIEWER"],
-		"advance": ["COMPANY_ADMIN"]
+{
+	"user": {
+		"userCode": "ZU1046843",
+		"email": "ronald@sedexglobal.com",
+		"firstName": "Ronald",
+		"lastName": "Sedex",
+		"organisationCode": "ZC1071772",
+		"roles": ["REPORT_VIEWER", "COMPANY_ADMIN"],
+		"status": "ACTIVE",
+		"impersonatedUserCode": null,
+		"appRoles": {
+			"dataMonitor": ["REPORT_VIEWER"],
+			"advance": ["COMPANY_ADMIN"]
+		}
 	}
 }
