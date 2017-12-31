@@ -5,7 +5,8 @@
 		"firstName": "Ronald",
 		"lastName": "Sedex",
 		"organisationCode": "ZC1071772",
-		"roles": ["REPORT_VIEWER", "COMPANY_ADMIN","REPORT_VIEWER", "COMPANY_ADMIN","REPORT_VIEWER", "COMPANY_ADMIN","REPORT_VIEWER", "COMPANY_ADMIN"],
+		"roles": ["REPORT_VIEWER", "COMPANY_ADMIN","REPORT_VIEWER"],
+		"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"]
 		"status": "ACTIVE",
 		"impersonatedUserCode": null,
 		"appRoles": {
