@@ -1,4 +1,4 @@
-{
+,{
 	"user": {
 		"userCode": 1046843,
 		"email": "ronald@sedexglobal.com",
@@ -6,7 +6,7 @@
 		"lastName": "Sedex",
 		"organisationCode": "ZC1071772",
 		"roles": ["REPORT_VIEWER", "COMPANY_ADMIN","REPORT_VIEWER"],
-		"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"]
+		"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"],
 		"status": "ACTIVE",
 		"impersonatedUserCode": null,
 		"appRoles": {
