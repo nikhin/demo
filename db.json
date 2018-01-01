@@ -1,4 +1,4 @@
-{
+,{
 	"user": {
 		"code": "ZC1071772",
 	"membershipStatus": "ACTIVE",
@@ -25,6 +25,7 @@
 	"vatNumber": "5243vtgergw5yt",
 	"subscriptionType": "ST002",
 	"auditCompanyType": null,
-	"pendingApproval": false
+	"pendingApproval": false,
+	"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"]
 	}
 }
