@@ -1,17 +1,30 @@
 {
 	"user": {
-		"userCode": 1046843,
-		"email": "ronald@sedexglobal.com",
-		"firstName": "Ronald",
-		"lastName": "Sedex",
-		"organisationCode": "ZC1071772",
-		"roles": ["REPORT_VIEWER", "COMPANY_ADMIN","REPORT_VIEWER"],
-		"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"],
-		"status": "ACTIVE",
-		"impersonatedUserCode": null,
-		"appRoles": {
-			"dataMonitor": ["REPORT_VIEWER"],
-			"advance": ["COMPANY_ADMIN"]
-		}
+		"code": "ZC1071772",
+	"membershipStatus": "ACTIVE",
+	"address": {
+		"addressLine1": "guangdong province test",
+		"addressLine2": "guangzhou yuexiu district test",
+		"city": "shanghai sfhsfg",
+		"countryCode": "CN",
+		"postCode": "200122"
+	},
+	"billingAddress": {
+		"addressLine1": "guangdong province",
+		"addressLine2": "guangzhou yuexiu district",
+		"city": "shanghai",
+		"countryCode": "CN",
+		"postCode": "200122"
+	},
+	"telephone": "123456",
+	"contact": "caoxin1981cn28@gmail.com",
+	"numberOfSites": 7,
+	"numberOfSubscribedSites": 7,
+	"numberOfActualSites": 7,
+	"organisationName": "_Sedex*Test_Chinese company for sunny",
+	"vatNumber": "5243vtgergw5yt",
+	"subscriptionType": "ST002",
+	"auditCompanyType": null,
+	"pendingApproval": false
 	}
 }
