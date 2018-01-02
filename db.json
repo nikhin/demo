@@ -26,7 +26,16 @@
 	"subscriptionType": "ST002",
 	"auditCompanyType": null,
 	"pendingApproval": false,
-	"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"]
+	"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"],
+	"businessLicenseNumber" : "";
+"tierType" : "",
+"nameInLocalLanguage" :"",
+"totalTurnOver" : "",
+"businesslicenseExpDate" : "",
+"majorMarkets" :"",
+"website" : "",
+"languageSpoken" : ""
+	
 	},
 	
 	"countries":[{
