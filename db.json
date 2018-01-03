@@ -72,7 +72,7 @@
 		"localizationLang": "en"
 	}],
 	
-	"subsidiaries":[{
+	"allSubsidiaries":[{
 	"organisationName": "sunny for testing",
 	"code": "ZC1092473",
 	"subscriptionType": "ST002",
