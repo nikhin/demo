@@ -1,51 +1,43 @@
 {
 	"user": {
+		"code": "ZC1071772",
 	"membershipStatus": "ACTIVE",
-	"address": null,
-	"billingAddress": null,
-	"telephone": null,
-	"contact": null,
-	"vatNumber": null,
-	"numberOfSites": null,
-	"numberOfSubscribedSites": null,
-	"numberOfActualSites": 0,
-	"organisationName": "Sonata Dev Testing",
-	"subscriptionType": null,
-	"code": "ZC10999999",
+	"address": {
+		"addressLine1": "guangdong province test",
+		"addressLine2": "guangzhou yuexiu district test",
+		"city": "shanghai sfhsfg",
+		"countryCode": "CN",
+		"postCode": "200122"
+	},
+	"billingAddress": {
+		"addressLine1": "guangdong province",
+		"addressLine2": "guangzhou yuexiu district",
+		"city": "shanghai",
+		"countryCode": "CN",
+		"postCode": "200122"
+	},
+	"telephone": "123456",
+	"contact": "caoxin1981cn28@gmail.com",
+	"numberOfSites": 7,
+	"numberOfSubscribedSites": 7,
+	"numberOfActualSites": 7,
+	"organisationName": "_Sedex*Test_Chinese company for sunny",
+	"vatNumber": "5243vtgergw5yt",
+	"subscriptionType": "ST002",
 	"auditCompanyType": null,
 	"pendingApproval": false,
-	"createdOn": null,
-	"tierType": null,
-	"nameInLocalLanguage": null,
-	"totalTurnOver": null,
-	"businessLicenseNumber": null,
-	"businesslicenseExpDate": null,
-	"majorMarkets": null,
-	"website": null,
-	"languageSpoken": "Tamil",
-	"addressExtn": {
-		"addressLine1": "",
-		"addressLine2": "",
-		"city": "",
-		"countryCode": "",
-		"postCode": "",
-		"state": null,
-		"provenance": null
-	},
-	"billingAddressExtn": {
-		"addressLine1": "",
-		"addressLine2": "",
-		"city": "",
-		"countryCode": "",
-		"postCode": "",
-		"state": null,
-		"provenance": null
-	},
-	"updateDate": null,
-	"currency": null
-},
+	"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"],
+	"businessLicenseNumber" : "",
+"tierType" : "",
+"nameInLocalLanguage" :"",
+"totalTurnOver" : "",
+"businesslicenseExpDate" : "",
+"majorMarkets" :"",
+"website" : "",
+"languageSpoken" : ""
 	
-
+	},
+	
 	"countries":[{
 		"name": "Afghanistan",
 		"code": "AF",
