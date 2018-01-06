@@ -1,51 +1,51 @@
 {
 	"user": {
-	"user": {
-"code": "ZC05019998",
-"membershipStatus": "LAPSED",
-"address": {
-"addressLine1": "asdffff",
-"addressLine2": "line2",
-"city": "bangalore",
-"countryCode": "CN",
-"postCode": null,
-"state": "karnataka"
-},
-"billingAddress": {
-"addressLine1": "asdffff",
-"addressLine2": "line2",
-"city": "bangalore",
-"countryCode": "null",
-"postCode": 12345,
-"state": "Karnataka"
-},
-"telephone": "09887654",
-"contact": "mail",
-"numberOfSites": 5,
-"numberOfSubscribedSites": 5,
-"numberOfActualSites": 0,
-"organisationName": "Sedex*Test_Chinese company for sunny",
-"vatNumber": "as123",
-"subscriptionType": "ST002",
-"auditCompanyType": "audit",
-"pendingApproval": false,
-"tierType": " asdf",
-"nameInLocalLanguage": "kad",
-"totalTurnOver": 12356,
-"businessLicenseNumber": "asqwer1234",
-"businesslicenseExpDate": 987654,
-"majorMarkets": "japan",
-"website": "indiaaa",
-"languageSpoken": ["Spanish", "English"],
-"updateDate": "1970-01-01T05:36:27.654+0000"
-}
+
+		"code": "ZC05019998",
+		"membershipStatus": "LAPSED",
+		"address": {
+			"addressLine1": "asdffff",
+			"addressLine2": "line2",
+			"city": "bangalore",
+			"countryCode": "CN",
+			"postCode": null,
+			"state": "karnataka"
+		},
+		"billingAddress": {
+			"addressLine1": "asdffff",
+			"addressLine2": "line2",
+			"city": "bangalore",
+			"countryCode": "null",
+			"postCode": 12345,
+			"state": "Karnataka"
+		},
+		"telephone": "09887654",
+		"contact": "mail",
+		"numberOfSites": 5,
+		"numberOfSubscribedSites": 5,
+		"numberOfActualSites": 0,
+		"organisationName": "Sedex*Test_Chinese company for sunny",
+		"vatNumber": "as123",
+		"subscriptionType": "ST002",
+		"auditCompanyType": "audit",
+		"pendingApproval": false,
+		"tierType": " asdf",
+		"nameInLocalLanguage": "kad",
+		"totalTurnOver": 12356,
+		"businessLicenseNumber": "asqwer1234",
+		"businesslicenseExpDate": 987654,
+		"majorMarkets": "japan",
+		"website": "indiaaa",
+		"languageSpoken": ["Spanish", "English"],
+		"updateDate": "1970-01-01T05:36:27.654+0000"
+	}
 
 
 
-             
-}
 
 
 
-             
+
+
+
 }
