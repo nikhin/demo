@@ -1,110 +1,45 @@
 {
 	"user": {
-		"code": "ZC1071772",
-	"membershipStatus": "ACTIVE",
-	"address": {
-		"addressLine1": "guangdong province test",
-		"addressLine2": "guangzhou yuexiu district test",
-		"city": "shanghai sfhsfg",
-		"countryCode": "CN",
-		"postCode": "200122"
-	},
-	"billingAddress": {
-		"addressLine1": "guangdong province",
-		"addressLine2": "guangzhou yuexiu district",
-		"city": "shanghai",
-		"countryCode": "CN",
-		"postCode": "200122"
-	},
-	"telephone": "123456",
-	"contact": "caoxin1981cn28@gmail.com",
-	"numberOfSites": 7,
-	"numberOfSubscribedSites": 7,
-	"numberOfActualSites": 7,
-	"organisationName": "_Sedex*Test_Chinese company for sunny",
-	"vatNumber": "5243vtgergw5yt",
-	"subscriptionType": "ST002",
-	"auditCompanyType": null,
-	"pendingApproval": false,
-	"subsidiaries":["Anhui (Briminghaam) Ltd","Anhui Deserts - Network"],
-	"businessLicenseNumber" : "",
-"tierType" : "",
-"nameInLocalLanguage" :"",
-"totalTurnOver" : "",
-"businesslicenseExpDate" : "",
-"majorMarkets" :"",
-"website" : "",
-"languageSpoken" : ""
-	
-	},
-	
-	"countries":[{
-		"name": "Afghanistan",
-		"code": "AF",
-		"localizationLang": "en"
-	}, {
-		"name": "Albania",
-		"code": "AL",
-		"localizationLang": "en"
-	}, {
-		"name": "Algeria",
-		"code": "DZ",
-		"localizationLang": "en"
-	}, {
-		"name": "American Samoa",
-		"code": "AS",
-		"localizationLang": "en"
-	}, {
-		"name": "Andorra",
-		"code": "AD",
-		"localizationLang": "en"
-	}, {
-		"name": "Angola",
-		"code": "AO",
-		"localizationLang": "en"
-	}, {
-		"name": "Anguilla",
-		"code": "AI",
-		"localizationLang": "en"
-	}, {
-		"name": "Antarctica",
-		"code": "AQ",
-		"localizationLang": "en"
-	}],
-	
-	"subsidiaries":[{
-	"organisationName": "sunny for testing",
-	"code": "ZC1092473",
-	"subscriptionType": "ST002",
-	"links": []
-}, {
-	"organisationName": "test for subsidiary",
-	"code": "ZC1091951",
-	"subscriptionType": "ST002",
-	"links": []
-}, {
-	"organisationName": "test shanghai111",
-	"code": "ZC1092827",
-	"subscriptionType": "ST002",
-	"links": []
-}],
-"languages":
-	[
-		{"code":"pt","name":"Portuguese","default":false}
-		,{"code":"fr","name":"French","default":false},
-		{"code":"ar","name":"Arabic","default":false},
-		{"code":"ru","name":"Russian","default":false},
-		{"code":"ja","name":"Japanese","default":false},
-		{"code":"it","name":"Italian","default":false},
-		{"code":"de","name":"German","default":false},
-		{"code":"es","name":"Spanish","default":false},
-		{"code":"tr","name":"Turkish","default":false},
-		{"code":"zh","name":"Chinese","default":false},
-		{"code":"en","name":"English","default":true},
-		{"code":"hi","name":"Hindi","default":false},
-		{"code":"nl","name":"Dutch","default":false},
-		{"code":"af","name":"Afrikaans","default":false},
-		{"code":"pl","name":"Polish","default":false}]
-	
+"code": "ZC05019998",
+"membershipStatus": "LAPSED",
+"address": {
+"addressLine1": "asdffff",
+"addressLine2": "line2",
+"city": "bangalore",
+"countryCode": null,
+"postCode": null,
+"state": "karnataka"
+},
+"billingAddress": {
+"addressLine1": "asdffff",
+"addressLine2": "line2",
+"city": "bangalore",
+"countryCode": null,
+"postCode": null,
+"state": null
+},
+"telephone": "09887654",
+"contact": "mail",
+"numberOfSites": 5,
+"numberOfSubscribedSites": 5,
+"numberOfActualSites": 0,
+"organisationName": null,
+"vatNumber": "as123",
+"subscriptionType": "ST002",
+"auditCompanyType": "audit",
+"pendingApproval": false,
+"tierType": " asdf",
+"nameInLocalLanguage": "kad",
+"totalTurnOver": 12356,
+"businessLicenseNumber": "asqwer1234",
+"businesslicenseExpDate": 987654,
+"majorMarkets": "japan",
+"website": "indiaaa",
+"languageSpoken": ["Spanish", "English"],
+"updateDate": "1970-01-01T05:36:27.654+0000"
+}
+
+
+
              
 }
