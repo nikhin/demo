@@ -57,7 +57,5 @@
 		{"code":"hi","name":"Hindi","default":false},
 		{"code":"nl","name":"Dutch","default":false},
 		{"code":"af","name":"Afrikaans","default":false},
-		{"code":"pl","name":"Polish","default":false}]             
-}
-
+		{"code":"pl","name":"Polish","default":false}]  
 }
