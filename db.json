@@ -58,5 +58,8 @@
 		{"code":"nl","name":"Dutch","default":false},
 		{"code":"af","name":"Afrikaans","default":false},
 		{"code":"pl","name":"Polish","default":false}],
-	"countries":[{"name":"Afghanistan","code":"AF","localizationLang":"en"},{"name":"Albania","code":"AL","localizationLang":"en"},{"name":"Algeria","code":"DZ","localizationLang":"en"},{"name":"American Samoa","code":"AS","localizationLang":"en"}]
+	"countries":[{"name":"Afghanistan","code":"AF","localizationLang":"en"},
+		     {"name":"Albania","code":"AL","localizationLang":"en"},
+		     {"name":"Algeria","code":"DZ","localizationLang":"en"},
+		     {"name":"American Samoa","code":"AS","localizationLang":"en"}]
 }
