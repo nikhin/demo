@@ -236,6 +236,6 @@
 		"saqPercentage": null
 	}],
 	
-	"security":{"test"}
+	"security":{"json":"test"}
 
 }
